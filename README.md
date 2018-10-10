@@ -1,4 +1,4 @@
-# DataScience
+# MyDataScience
 Personal data science learning resources
 <h2>Books</h2>
 
