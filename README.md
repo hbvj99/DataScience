@@ -1,7 +1,13 @@
-# MyDataScience
+# MeroDataScience
 Personal data science learning resources
-<h2>Books</h2>
 
+<h2>Nepal Dataset Collection</h2>
+<li>
+  <li><a href="https://github.com/hbvj99/EPANepalData">NPGovAirPollution</a></li>
+  <li><a href="https://github.com/hbvj99/NPGovAirPollution">EPANepalData</a></li>
+</li> 
+
+<h2>Books</h2>
 <ol>
   <li><a href="https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413">Introduction to Machine Learning with Python: A Guide for Data Scientists</a></li>
 </ol> 
