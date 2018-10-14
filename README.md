@@ -1,4 +1,5 @@
-# NP-MeroDataScience
+# MeroDataScience
+
 MY Personal data science learning notebook. Here you can find the collection of dataset for Nepal.
 
 <h2>Nepal Dataset Collection</h2>
