@@ -3,9 +3,11 @@
 MY Personal data science learning notebook. Here you can find the collection of dataset for Nepal.
 
 <h2>Nepal Dataset Collection</h2>
- <li><a href="https://github.com/hbvj99/EPANepalData">NPGovAirPollution</a></li>
- <li><a href="https://github.com/hbvj99/NPGovAirPollution">EPANepalData</a></li>
-<br><br>
+<ul>
+ <li><a href="https://github.com/hbvj99/EPANepalData">Nepal Government Air Pollution</a></li>
+ <li><a href="https://github.com/hbvj99/NPGovAirPollution">EPA Air Pollution</a></li>
+ <li><a href="https://github.com/hbvj99/scrape_yellowpage/tree/master/data/csv">Higher Seconday School, Colleges in Nepal</a></li>
+</ul>
 <h2>Learning Resources</h2>
 <h3>Books</h3>
 <ol>
