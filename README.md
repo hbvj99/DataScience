@@ -1,6 +1,5 @@
 # dataset-collection
-<p>Here you can find all the dataset collections</p>
-
+<p>This repository consist of different datasets, essential for ML and researchers. </p>
 <p>
 <h2>Nepal</h2>
  <h4>Air Pollutions</h4>
