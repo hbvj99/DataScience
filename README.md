@@ -1,5 +1,5 @@
 # dataset-collection
-<p>This repository consist of different datasets, essential for ML and researchers. </p>
+<p>This repository consist of different datasets, essential for ML and research. </p>
 <p>
 <h2>Nepal</h2>
  <h4>Air Pollutions</h4>
