@@ -20,4 +20,4 @@ Collection of Nepali datasets, essential for ML and research. This repository ca
  ---
  
  ## Some thoughts
-You can modify the content, optimize the data and even use the dataset commercially as you may like. You can credit me by mentioning this repository if you wish. Pull requests are also welcomed!
+Please refer to the repository licenses on how you can modify the content, optimize the data and even use the dataset commercially. You can credit me by mentioning this repository if you wish. Pull requests are also welcomed!
